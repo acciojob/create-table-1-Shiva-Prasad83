@@ -1,5 +1,4 @@
 const table=document.getElementById("sampleTable");
-console.log(table.childNodes[1].childNodes[0]);
 function insert_Row() {
   const tr=document.createElement("tr");
 	const td1=document.createElement("td");
